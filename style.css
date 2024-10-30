@@ -1,0 +1,24 @@
+body{
+    background-color: #1f3035;
+}
+
+.titulo{
+    font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    font-size: 60px ;
+    color: cadetblue;
+    background-color: white;
+    text-align: center;
+}
+ 
+.imagen-cambiada{
+    width: 400px;
+    padding-left: 35px;
+    border-width: 5px; color: rgb(146, 140, 140);
+    border-style: solid;
+    margin-left:15px ;
+}
+
+.p{
+    color: aliceblue;
+}
+    
