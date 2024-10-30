@@ -1,13 +1,14 @@
 body{
-    background-color: #1f3035;
+    background-color: #2a373a;
 }
 
 .titulo{
     font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
     font-size: 60px ;
-    color: cadetblue;
-    background-color: white;
+    color: rgb(53, 66, 70);
+    background-color: white; margin: 15px;
     text-align: center;
+    font-weight: bolder;
 }
  
 .imagen-cambiada{
@@ -19,6 +20,44 @@ body{
 }
 
 .p{
-    color: aliceblue;
+    color: rgba(240, 248, 255, 0.644);
+    font-family: Arial, Gadget, sans-serif;
+    font-size: small;
+    letter-spacing: 0.5px;
+
 }
-    
+   
+.titulo-1{
+    color: burlywood;
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+}
+
+.titulo-2{
+    color: rgb(194, 225, 250);
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+}
+
+.titulo-3{
+    color: rgb(216, 213, 210);
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+}
+
+.titulo-4{
+    color: rgb(136, 134, 131);
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+}
+
+.titulo-5{
+    color: rgb(190, 187, 182);
+    font-size: 24px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: lighter;
+}
